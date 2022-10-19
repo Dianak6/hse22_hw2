@@ -19,4 +19,3 @@ https://colab.research.google.com/drive/1Txcb6rub1f9zM4i3Q_7X_Ix5DwwxaYON?hl=ru-
 
 Белков остались без аннотации функции: 286
 
-**Процент сходства между рибосомальными рнк**
